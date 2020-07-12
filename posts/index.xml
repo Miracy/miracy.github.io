@@ -5,10 +5,19 @@
     <link>https://example.com/posts/</link>
     <description>Recent content in Posts on Miracy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jul 2020 19:40:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 19:46:32 +0800</lastBuildDate>
     
         <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>XML</title>
+      <link>https://example.com/2020/07/xml/</link>
+      <pubDate>Sun, 12 Jul 2020 19:46:32 +0800</pubDate>
+      
+      <guid>https://example.com/2020/07/xml/</guid>
+      <description>一、XML简介 什么是XML xml 是可扩展的标记性语言。 XML的作用 用来保存数据，而且这些数据具有自我描述性； 它还可以作为项目或者模块的配置文件；</description>
+    </item>
     
     <item>
       <title>JQuery</title>
@@ -16,7 +25,7 @@
       <pubDate>Sun, 12 Jul 2020 19:40:26 +0800</pubDate>
       
       <guid>https://example.com/2020/07/jquery/</guid>
-      <description></description>
+      <description>jQuery [TOC] jQuery介绍 什么是jQuery?——顾名思义，就是JavaScript和查询Qurey，它就是辅助JavaScript开发的js类库</description>
     </item>
     
     <item>
